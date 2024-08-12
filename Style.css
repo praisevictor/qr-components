@@ -1,0 +1,22 @@
+#description{
+    font-size: 20px;
+    text-align: center;
+    border: 0px solid;
+    width: 400px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 30px;
+    padding: color= "white";
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#code{
+    border-radius: 11px;
+    margin: auto;
+    margin-top: 20px;
+}
+.attribution{
+    text-align: center;
+    margin-top: 50px;
+}
